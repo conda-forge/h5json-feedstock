@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.0"
+  version: "2.0.1"
 
 package:
   name: h5json
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/h/h5json/h5json-${{ version }}.tar.gz
-  sha256: f859aabdd51a0c5a8fc8fa1d40821e24d1431c6161f6ed36bcaef4831869b1bd
+  sha256: 3badd990d2c663f3c1d6827a243f8a76fdd479a933aef936a435a32c82822bb1
 
 build:
   number: 0
